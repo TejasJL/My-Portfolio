@@ -85,7 +85,7 @@ export default function App() {
 
             {/* Call to Actions */}
             <div className="flex flex-wrap justify-center gap-4 w-full">
-              <a href="https://github.com/TejasIL" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-gradient-to-r from-emerald-500 to-cyan-500 text-white px-8 py-3.5 rounded-lg font-bold hover:opacity-90 transition-opacity shadow-lg shadow-emerald-500/20">
+              <a href="https://github.com/TejasJL" target="_blank" rel="noreferrer" className="flex items-center gap-2 bg-gradient-to-r from-emerald-500 to-cyan-500 text-white px-8 py-3.5 rounded-lg font-bold hover:opacity-90 transition-opacity shadow-lg shadow-emerald-500/20">
                 <Code size={20} /> View GitHub
               </a>
               <a href="https://leetcode.com/u/Teja8990/" target="_blank" rel="noreferrer" className="flex items-center gap-2 border border-slate-700 bg-slate-900 px-8 py-3.5 rounded-lg font-semibold hover:bg-slate-800 transition-colors text-white">
